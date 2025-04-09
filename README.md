@@ -4,7 +4,6 @@
 ## 🚀 Sobre Mim  
 - 🌱 **Estudos (Programação)**: JavaScript, Node, React
 - **Estudos (CyberSec)**: Segurança Ofensiva (red team), Criptografia![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-88CC14?logo=tryhackme&logoColor=white)
 - 📫 **Como me contatar**: **kieff_hash@proton.me**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-kieff) 
 
