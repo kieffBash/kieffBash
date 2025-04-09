@@ -4,7 +4,7 @@
 ## 🚀 Sobre Mim  
 - ![Estudando](https://img.shields.io/badge/-📚_Estudando_Web_Dev-8A2BE2?style=flat&logo=bookstack&logoColor=white) **Estudos (Programação)**: JavaScript, Node, React
 - ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white) **Estudos (CyberSec)**: Segurança Ofensiva (red team), Criptografia
-- [![Email](https://img.shields.io/badge/-✉️_kieff_hash@proton.me-8B89CC?style=flat&logo=protonmail&logoColor=white)] **Como me contatar**: **kieff_hash@proton.me**
+- [![Email](https://img.shields.io/badge/-✉️_kieff_hash@proton.me-8B89CC?style=flat&logo=protonmail&logoColor=white) **Como me contatar**: **kieff_hash@proton.me**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-kieff) 
 
 
