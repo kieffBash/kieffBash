@@ -1,10 +1,13 @@
 # 👋 Olá, eu sou Kieff!  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-kieff)  
 
 ## 🚀 Sobre Mim  
-- 🌱 **Aprendendo**: JavaScript, Python, C++
-- 📫 Como me contatar: **kieff_hash@proton.me**  
+- 🌱 **Estudos (Programação)**: JavaScript, Node, React
+- **Estudos (CyberSec)**: Segurança Ofensiva (red team), Criptografia![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-88CC14?logo=tryhackme&logoColor=white)
+- 📫 **Como me contatar**: **kieff_hash@proton.me**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-kieff) 
+
 
 ## 🛠 Habilidades Técnicas  
 ### Linguagens e Ferramentas  
@@ -12,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+
 
 ## 🌐 Idiomas  
 - 🇧🇷 Português: **Nativo**  
