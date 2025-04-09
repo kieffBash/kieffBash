@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Kieff!  
 
-[![GitHub Followers](https://img.shields.io/github/followers/seu-usuario?style=social)](https://github.com/seu-usuario)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-kieff)  
 
 ## 🚀 Sobre Mim  
 - 🌱 **Aprendendo**: JavaScript, Python, C++
