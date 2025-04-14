@@ -3,7 +3,11 @@
 
 ## 🚀 Sobre Mim
 
+
+
 **Descrição Breve:** Olá, eu sou o Kieff, um entusiasta das áreas de Programação e CyberSecurity. Atualmente, estou focado em aprender linguagens Back-End, porém, tenho a ambição de expandir meus conhecimentos para Full-Stack. Meu objetivo é complementar minhas habilidades em desenvolvimento e alcançar a Certificação OSCP, aprimorando meu conhecimento em Segurança Cibernética.
+
+
 
 
 - ![Estudando](https://img.shields.io/badge/-📚_Estudando_Back_End-8A2BE2?style=flat&logo=bookstack&logoColor=white) **Estudos (Programação Back-End)**: Python, C++, Node
