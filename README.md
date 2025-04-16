@@ -1,19 +1,8 @@
 # 👋 Olá, eu sou Kieff!  
 
-
-## 🚀 Sobre Mim
-
+Sou um entusiasta das áreas de Programação e CyberSecurity. Atualmente, estou focado em aprender linguagens Back-End como Python e C++, porém, tenho a ambição de expandir meus conhecimentos para Full-Stack. Meu objetivo é complementar minhas habilidades em desenvolvimento e alcançar a Certificação OSCP, aprimorando meu conhecimento em Segurança Cibernética.
 
 
-**Descrição Breve:** Olá, eu sou o Kieff, um entusiasta das áreas de Programação e CyberSecurity. Atualmente, estou focado em aprender linguagens Back-End, porém, tenho a ambição de expandir meus conhecimentos para Full-Stack. Meu objetivo é complementar minhas habilidades em desenvolvimento e alcançar a Certificação OSCP, aprimorando meu conhecimento em Segurança Cibernética.
-
-
-
-
-- ![Estudando](https://img.shields.io/badge/-📚_Estudando_Back_End-8A2BE2?style=flat&logo=bookstack&logoColor=white) **Estudos (Programação Back-End)**: Python, C++, Node
-- ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white) **Estudos (CyberSec)**: Segurança Ofensiva (red team), Criptografia
-- ![Email](https://img.shields.io/badge/-✉️_kieff_hash@proton.me-8B89CC?style=flat&logo=protonmail&logoColor=white) **Como me contatar**: **kieff_hash@proton.me**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-kieff) 
 
 
 ## 🛠 Habilidades Técnicas  
